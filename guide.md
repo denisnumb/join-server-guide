@@ -51,7 +51,7 @@ ___
 
 ## *Установка текстур и шейдеров*
 
-*Этот пункт не является обязательным и его можно пропустить, если не собираетесь установливать текстуры и шейдеры*
+*Этот пункт не является обязательным и его можно пропустить, если не собираетесь устанавливать текстуры и шейдеры*
 
 ### Установка текстур
 
@@ -71,7 +71,7 @@ ___
 
 ![Снимок](https://user-images.githubusercontent.com/61795655/151634420-0b788b6f-cb80-419f-8e5a-d4f4fdec4624.PNG)
 
-2. В папку **shaderpacks*** **распакуйте** скачанный до этого архив с шейдерами таким образом, чтобы в папке **resourcepacks** находились `.zip` и `.txt` файлы
+2. В папку **shaderpacks** **распакуйте** скачанный до этого архив с шейдерами таким образом, чтобы в папке **resourcepacks** находились `.zip` и `.txt` файлы
 
 **Пример:**
 
@@ -95,7 +95,7 @@ ___
 
 [0]: https://tlauncher.org/
 [1]: https://www.radmin-vpn.com/ru/
-[2]: https://drive.google.com/file/d/120XMmUjoPVuEDe3kw67FrqAR-4DRB_zJ/view?usp=sharing 
+[2]: https://drive.google.com/file/d/120XMmUjoPVuEDe3kw67FrqAR-4DRB_zJ/view?usp=sharing
 [3]: https://drive.google.com/file/d/1_7h0Nz9MephEqUi9qg9feufbvtiBePXM/view?usp=sharing
 [4]: https://drive.google.com/file/d/1_Ii3ojGMnD7Xa4-0lrqrH4Mom27PgSTI/view?usp=sharing
 [5]: https://drive.google.com/file/d/1Ac3L599JPSxBacughxx-y70GqhDhOij5/view?usp=sharing
