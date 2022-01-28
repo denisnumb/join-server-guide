@@ -12,4 +12,4 @@ ___
 
 [0]: https://tlauncher.org/
 [1]: https://www.radmin-vpn.com/ru/
-[2]: https://drive.google.com/file/d/120XMmUjoPVuEDe3kw67FrqAR-4DRB_zJ/view?usp=sharing <!---Шейдеры--->
+[2]: https://drive.google.com/file/d/120XMmUjoPVuEDe3kw67FrqAR-4DRB_zJ/view?usp=sharing 
