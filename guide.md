@@ -95,7 +95,7 @@ ___
 
 [0]: https://tlauncher.org/
 [1]: https://www.radmin-vpn.com/ru/
-[2]: https://drive.google.com/file/d/120XMmUjoPVuEDe3kw67FrqAR-4DRB_zJ/view?usp=sharing
+[2]: https://drive.google.com/file/d/1BHDi46Sh76FZAvVN--DpBA9po0Q7DEgy/view?usp=sharing
 [3]: https://drive.google.com/file/d/1_7h0Nz9MephEqUi9qg9feufbvtiBePXM/view?usp=sharing
 [4]: https://drive.google.com/file/d/1_Ii3ojGMnD7Xa4-0lrqrH4Mom27PgSTI/view?usp=sharing
 [5]: https://drive.google.com/file/d/1Ac3L599JPSxBacughxx-y70GqhDhOij5/view?usp=sharing
