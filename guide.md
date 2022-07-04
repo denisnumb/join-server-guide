@@ -99,4 +99,4 @@ ___
 [3]: https://drive.google.com/file/d/1_7h0Nz9MephEqUi9qg9feufbvtiBePXM/view?usp=sharing
 [4]: https://drive.google.com/file/d/1_Ii3ojGMnD7Xa4-0lrqrH4Mom27PgSTI/view?usp=sharing
 [5]: https://drive.google.com/file/d/1Ac3L599JPSxBacughxx-y70GqhDhOij5/view?usp=sharing
-[6]: https://discord.com/channels/752821563455176824/752824192789119018/915631086464299059
+[6]: https://discord.com/channels/752821563455176824/752824192789119018/993536028386275328
