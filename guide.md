@@ -4,7 +4,7 @@ ___
 ## Скачивание файлов
 
 1. Качаем и устанавливаем [**`TLauncher`**][0] *(или любой другой лаунчер майнкрафта, если у вас пиратка)*
-2. Качаем моды: **https://drive.google.com/file/d/1AvdpUPrI-hv8frwhdNL4V8dxWfYyYhua/view?usp=sharing**
+2. Качаем моды: **[https://drive.google.com/file/d/1AvdpUPrI-hv8frwhdNL4V8dxWfYyYhua/view?usp=sharing](https://drive.google.com/file/d/1P96yOPK-mldzQj0Pa11LXDOUCFjTUORQ/view?usp=share_link)**
 3. При желании можете скачать шейдеры и текстуры: [**Шейдеры**][2], [**Faithful x32**][3], [**Faithful x64**][4], [**Скругленные деревья**][5]
 
 ## Создание сборки и установка модов
