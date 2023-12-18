@@ -5,7 +5,7 @@ ___
 
 1. Качаем и устанавливаем [**`TLauncher`**][0] *(или любой другой лаунчер майнкрафта, если у вас пиратка)*
 2. Качаем моды: **[https://drive.google.com/file/d/1AvdpUPrI-hv8frwhdNL4V8dxWfYyYhua/view?usp=sharing](https://drive.google.com/file/d/1P96yOPK-mldzQj0Pa11LXDOUCFjTUORQ/view?usp=share_link)**
-3. При желании можете скачать шейдеры и текстуры: [**Шейдеры**][2], [**Faithful x32**][3], [**Faithful x64**][4], [**Скругленные деревья**][5]
+3. При желании можете скачать шейдеры и текстуры: [**Шейдеры**][2], [**Faithful x32**][3], [**Faithful x64**][4]
 
 ## Создание сборки и установка модов
 
@@ -18,7 +18,7 @@ ___
 ![Снимок](https://user-images.githubusercontent.com/61795655/151632770-7ee09ba1-4c10-4be1-840d-5a2acb4ffb32.PNG)
 
 3. Вводим любое имя для новой сборки модов
-4. **Версию игры** указываем такую же как в [**информационном сообщении**][6]
+4. **Версию игры** указываем такую же как в [**информационном сообщении**][5]
 5. **Версию Forge** указываем последнюю *(самая верхняя)*
 6. Оставляем обе галочки и жмем **Создать**
 
@@ -76,7 +76,7 @@ ___
 ![image](https://user-images.githubusercontent.com/61795655/151633161-c64f9615-96c7-47a6-a107-3ac2c2b9b448.png)
 
 2. После загрузки жмем **Сетевая игра > Добавить**
-3. В поле **Адрес сервера** вводим `IP` из [**информационного сообщения**][6]
+3. В поле **Адрес сервера** вводим `IP` из [**информационного сообщения**][5]
 
 ![Снимок экрана (77)](https://user-images.githubusercontent.com/61795655/151635149-09b0ce32-90de-4614-afea-9df435eb7d0b.png)
 
@@ -87,5 +87,4 @@ ___
 [2]: https://drive.google.com/file/d/1BHDi46Sh76FZAvVN--DpBA9po0Q7DEgy/view?usp=sharing
 [3]: https://drive.google.com/file/d/1_7h0Nz9MephEqUi9qg9feufbvtiBePXM/view?usp=sharing
 [4]: https://drive.google.com/file/d/1_Ii3ojGMnD7Xa4-0lrqrH4Mom27PgSTI/view?usp=sharing
-[5]: https://drive.google.com/file/d/1Ac3L599JPSxBacughxx-y70GqhDhOij5/view?usp=sharing
-[6]: https://discord.com/channels/752821563455176824/752824192789119018/993536028386275328
+[5]: https://discord.com/channels/752821563455176824/752824192789119018/993536028386275328
