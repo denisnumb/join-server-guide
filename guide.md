@@ -5,7 +5,7 @@ ___
 
 1. Качаем и устанавливаем [**`TLauncher`**][0] *(или любой другой лаунчер майнкрафта, если у вас пиратка)*
 2. Качаем моды: **[https://drive.google.com/file/d/1AvdpUPrI-hv8frwhdNL4V8dxWfYyYhua/view?usp=sharing](https://drive.google.com/file/d/1P96yOPK-mldzQj0Pa11LXDOUCFjTUORQ/view?usp=share_link)**
-3. При желании можете скачать шейдеры и текстуры: [**Шейдеры**][2], [**Faithful x32**][3], [**Faithful x64**][4]
+3. При желании можете скачать шейдеры и текстуры (`1.20.1`): [**Шейдеры**][2], [**Faithful x32**][3], [**Faithful x64**][4], [**Темная тема**][6]
 
 ## Создание сборки и установка модов
 
@@ -85,6 +85,7 @@ ___
 [0]: https://tlauncher.org/
 [1]: https://www.radmin-vpn.com/ru/
 [2]: https://drive.google.com/file/d/1BHDi46Sh76FZAvVN--DpBA9po0Q7DEgy/view?usp=sharing
-[3]: https://drive.google.com/file/d/1_7h0Nz9MephEqUi9qg9feufbvtiBePXM/view?usp=sharing
-[4]: https://drive.google.com/file/d/1_Ii3ojGMnD7Xa4-0lrqrH4Mom27PgSTI/view?usp=sharing
+[3]: https://drive.google.com/file/d/1aQUtuY0OfKEbKcGAl-C4XgoKvTMuUTqN/view?usp=sharing
+[4]: https://drive.google.com/file/d/19leeydxO8Ig2mJ2JmLjRMeNKbkBcq5wG/view?usp=sharing
 [5]: https://discord.com/channels/752821563455176824/752824192789119018/993536028386275328
+[6]: https://drive.google.com/file/d/1CI_Kd8h0IfZDsOgiQnmIsD6kQi1In_To/view?usp=sharing
