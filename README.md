@@ -4,7 +4,7 @@ ___
 ## Скачивание файлов
 
 1. Качаем и устанавливаем [**`TLauncher`**][0] *(или любой другой лаунчер майнкрафта, если у вас пиратка)*
-2. Качаем моды: **https://drive.google.com/file/d/1a7xaRIIIeaVcC0DcJvM7RNh71y6mCeFi/view?usp=sharing**
+2. Качаем моды: **[https://drive.google.com/file/d/1a7xaRIIIeaVcC0DcJvM7RNh71y6mCeFi/view?usp=sharing](https://drive.google.com/file/d/1a7xaRIIIeaVcC0DcJvM7RNh71y6mCeFi/view?usp=sharing)**
 3. При желании можете скачать шейдеры и текстуры (`1.21.1`): [**Шейдеры**][2], [**Faithful x32**][3], [**Faithful x64**][4], [**Темная тема**][6]
 
 ## Создание сборки и установка модов
